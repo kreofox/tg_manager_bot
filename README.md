@@ -17,5 +17,5 @@ Install from PyPi using [pip](https://pip.pypa.io/en/latest/), a
 package manager for Python.
 
 ```shell
-pip3 install twilio
+pip install twilio
 ```
